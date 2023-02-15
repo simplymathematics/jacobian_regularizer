@@ -1,0 +1,7 @@
+**/*/*ubyte
+**/*/*data_batch_*
+*.meta
+**/*/*-batches-py
+**/*/raw
+*.egg-info
+*.tar.gz
